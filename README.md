@@ -77,12 +77,12 @@ pip install numpy pandas scipy matplotlib seaborn jupyterlab lmfit
    ```
 
 3. **Execute the notebooks in sequence:**
-   - `analysis_saos_fitting_mc_concentration_1.00.ipynb` – Do all fittings to the SAOS data 1.00 wt\%
-   - `analysis_saos_fitting_mc_concentration_1.25.ipynb` – Do all fittings to the SAOS data 1.25 wt\%
-   - `analysis_saos_fitting_mc_concentration_1.50.ipynb` – Do all fittings to the SAOS data 1.50 wt\%
-   - `analysis_saos_fitting_mc_concentration_1.75.ipynb` – Do all fittings to the SAOS data 1.75 wt\%
-   - `analysis_saos_fitting_mc_concentration_2.00.ipynb` – Do all fittings to the SAOS data 2.00 wt\%
-   - `analysis_saos_fitting_mc_concentration_1.00.ipynb` – Do all fittings to the SAOS data 1.00 wt\%
+   - `analysis_saos_fitting_mc_concentration_1.00.ipynb` – Do all fractional order fittings to the SAOS data 1.00 wt\%
+   - `analysis_saos_fitting_mc_concentration_1.25.ipynb` – Do all fractional order fittings to the SAOS data 1.25 wt\%
+   - `analysis_saos_fitting_mc_concentration_1.50.ipynb` – Do all fractional order fittings to the SAOS data 1.50 wt\%
+   - `analysis_saos_fitting_mc_concentration_1.75.ipynb` – Do all fractional order fittings to the SAOS data 1.75 wt\%
+   - `analysis_saos_fitting_mc_concentration_2.00.ipynb` – Do all fractional order fittings to the SAOS data 2.00 wt\%
+   - `analysis_saos_power_law_fitting_fractional_parameters.ipynb` – Fit power law to fractional order parameters from SAOS
    - `analysis_saos_fitting_mc_concentration_1.25.ipynb` – Do all fittings to the SAOS data 1.25 wt\%
    - `analysis_saos_fitting_mc_concentration_1.50.ipynb` – Do all fittings to the SAOS data 1.50 wt\%
    - `analysis_saos_fitting_mc_concentration_1.75.ipynb` – Do all fittings to the SAOS data 1.75 wt\%
