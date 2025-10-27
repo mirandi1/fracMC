@@ -85,8 +85,8 @@ pip install numpy pandas scipy matplotlib seaborn jupyterlab lmfit
    - `analysis_saos_power_law_fitting_fractional_parameters.ipynb` – Fit power law to fractional order parameters from SAOS
    - `analysis_saos_fitting_cost_vs_temperature.ipynb` – Plot the cost of all the fittings vs temperature
    - `analysis_saos_create_theoretical_models.ipynb` – Plot the theoretical responses of the springpot and FKVS
-   - `analysis_saos_fitting_mc_concentration_1.75.ipynb` – Do all fittings to the SAOS data 1.75 wt\%
-   - `analysis_saos_fitting_mc_concentration_2.00.ipynb` – Do all fittings to the SAOS data 2.00 wt\%
+   - `analysis_saos_create_temperature_protocol_and_gpr.ipynb` – Plot the heating/cooling protocol and GPR analysis
+   - `analysis_dmta_effect_of_rate_concentration.ipynb` – DMTA plots and analysis of the master curve using fractional order
 
 
 All figures and processed outputs are automatically saved to `/figures` and `/results`.
