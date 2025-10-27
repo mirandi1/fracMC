@@ -32,19 +32,11 @@ fracMC/
 │   └── processed/       # Cleaned and pre-processed datasets
 │
 ├── notebooks/           # Jupyter notebooks for data analysis and visualization
-│   ├── 01_preprocessing.ipynb
-│   ├── 02_analysis.ipynb
-│   ├── 03_model_fitting.ipynb
-│   ├── 04_figures.ipynb
 │
 ├── figures/
 │   ├── main/            # Figures appearing in the main text
-│   └── supplementary/   # Figures for the Supporting Information
 │
-├── results/             # Output files (parameters, tables, and summary data)
-│   ├── model_parameters.csv
-│   ├── summary_statistics.csv
-│   └── sensitivity_analysis.csv
+├── results/             # Output files (parameters and summary data)
 │
 │
 ├── environment.yml      # Conda environment file for reproducibility
@@ -85,10 +77,17 @@ pip install numpy pandas scipy matplotlib seaborn jupyterlab lmfit
    ```
 
 3. **Execute the notebooks in sequence:**
-   - `01_preprocessing.ipynb` – Clean and organize raw data  
-   - `02_analysis.ipynb` – Analyze rheological trends  
-   - `03_model_fitting.ipynb` – Fit fractional rheology models  
-   - `04_figures.ipynb` – Generate figures for the manuscript  
+   - `analysis_saos_fitting_mc_concentration_1.00.ipynb` – Do all fittings to the SAOS data 1.00 wt\%
+   - `analysis_saos_fitting_mc_concentration_1.25.ipynb` – Do all fittings to the SAOS data 1.25 wt\%
+   - `analysis_saos_fitting_mc_concentration_1.50.ipynb` – Do all fittings to the SAOS data 1.50 wt\%
+   - `analysis_saos_fitting_mc_concentration_1.75.ipynb` – Do all fittings to the SAOS data 1.75 wt\%
+   - `analysis_saos_fitting_mc_concentration_2.00.ipynb` – Do all fittings to the SAOS data 2.00 wt\%
+   - `analysis_saos_fitting_mc_concentration_1.00.ipynb` – Do all fittings to the SAOS data 1.00 wt\%
+   - `analysis_saos_fitting_mc_concentration_1.25.ipynb` – Do all fittings to the SAOS data 1.25 wt\%
+   - `analysis_saos_fitting_mc_concentration_1.50.ipynb` – Do all fittings to the SAOS data 1.50 wt\%
+   - `analysis_saos_fitting_mc_concentration_1.75.ipynb` – Do all fittings to the SAOS data 1.75 wt\%
+   - `analysis_saos_fitting_mc_concentration_2.00.ipynb` – Do all fittings to the SAOS data 2.00 wt\%
+
 
 All figures and processed outputs are automatically saved to `/figures` and `/results`.
 
