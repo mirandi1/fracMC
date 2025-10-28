@@ -108,7 +108,6 @@ All figures appearing in the paper are generated through the provided notebooks.
 Figures are stored in:
 
 - `/figures/main/` — Figures used in the main text  
-- `/figures/supplementary/` — Figures for the Supporting Information  
 
 Key numerical outputs (fit parameters, model statistics) are stored in `/results/`.
 
