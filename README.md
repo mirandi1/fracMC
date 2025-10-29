@@ -1,4 +1,4 @@
-# Fractional Rheology of Methylcellulose Thermogelation (`fracMC`)
+# Fractional rheology of methylcellulose thermogelation (`fracMC`)
 
 This repository contains the experimental data, analysis scripts, and figures supporting the manuscript:
 
