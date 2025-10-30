@@ -2,7 +2,7 @@
 
 This repository contains the experimental data, analysis scripts, and figures supporting the manuscript:
 
-> **Fractional Rheology of Methylcellulose Thermogelation**  
+> **Fractional rheology of methylcellulose thermogelation**  
 > *[Authors]* — 2025, *Manuscript under review*
 
 All content in this repository is provided to ensure **transparency, reproducibility, and open access** to the data and computational workflow used in the study.
