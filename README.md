@@ -5,7 +5,7 @@ This repository contains the experimental data, analysis scripts, and figures su
 > **Fractional rheology of methylcellulose thermogelation**  
 > Isaac Y. Miranda-Valdez, Jesús G. Puente-Córdova, Tero Mäkinen, Juha Koivisto, Gareth H. McKinley, and Mikko J. Alava — 2025, *Manuscript under review*
 
-All content in this repository is provided to ensure **transparency, reproducibility, and open access** to the data and computational workflow used in the study.
+All content in this repository is provided to ensure **transparency, reproducibility, and open access** to the data and computational workflow used in the study. Jupyter Notebooks are provided for educational purposes.
 
 ---
 
